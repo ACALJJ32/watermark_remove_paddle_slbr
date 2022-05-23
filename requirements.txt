@@ -1,0 +1,2 @@
+paddlepaddle-gpu 
+opencv-python
